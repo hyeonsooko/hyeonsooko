@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeonsooko&show_icons=true&locale=en" alt="hyeonsooko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyeonsooko&" alt="hyeonsooko" /></p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
