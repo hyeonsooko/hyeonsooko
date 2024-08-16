@@ -1,4 +1,4 @@
-<h2> Tech Stack </h2>
+<h2>⭐️Tech Stack</h2>
 <br>
 <h3>Language</h3>
 
