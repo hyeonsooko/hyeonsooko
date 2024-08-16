@@ -1,7 +1,3 @@
-<h3 align="left">A passionate full stack developer</h3>
-
-
-
 <h2> Tech Stack </h2>
 <br>
 <h3>Language</h3>
